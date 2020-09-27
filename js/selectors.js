@@ -1,2 +1,2 @@
 // declare your functions here...
-function paragraphSelector()
+function paragraphSelector() = $('<p>')
